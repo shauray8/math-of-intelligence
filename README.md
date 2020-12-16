@@ -1,1 +1,1 @@
-# math-of-intelligence
+# math of intelligence
