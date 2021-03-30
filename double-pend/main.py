@@ -7,11 +7,11 @@ import formular
 
 os.environ['SDL_VIDEO_CENTERED']='1'
 
-width, height = 700, 700
+width, height = 1000, 800
 SIZE = (width, height)
 pygame.init()
 pygame.display.set_caption("Double Pendulum")
-fps = 40
+fps = 30
 screen = pygame.display.set_mode(SIZE)
 clock = pygame.time.Clock()
 
@@ -19,18 +19,18 @@ clock = pygame.time.Clock()
 white = (255, 255 , 255)
 black = (0, 0, 0)
 
-mass1 = 400
-mass2 = 400
+mass1 = 40
+mass2 = 40
 length1 = 200
 length2 = 200
 
-angle1 = math.pi/2
-angle2 = math.pi/2
+angle1 = math.pi/10
+angle2 = math.pi
 angle_velocity1 = 0
 angle_velocity2 = 0
 angle_acceleration1 = 0
 angle_acceleration2 = 0
-Gravity = 1
+Gravity = 9.8
 scatter1 = []
 scatter2 = []
 
