@@ -1,3 +1,5 @@
+# not very efficient might add animated graphs directly from the array 
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import odeint
