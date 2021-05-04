@@ -1,4 +1,4 @@
-# soon building a full adder for 8 bits
+# FULL ADDER
 
 first = bin(167).replace("0b","")
 second = bin(33).replace("0b","")
