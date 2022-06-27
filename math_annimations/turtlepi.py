@@ -18,7 +18,7 @@ class beauty:
         constant = str(self.constant_dict[self.cons]) if self.cons in self.constant_dict else str(mpf(self.cons))
         for i in constant:
             if i != ".":
-                forward(5)
+                forward(6)
                 right(int(i)*self.deg)
 
 
@@ -33,7 +33,7 @@ class beauty:
 
 #for i in range(7200):
 #    spirals(i)
-func = beauty("phi", 21.114, 10000)
+func = beauty("pi", 90, 10000)
 func.draw()
 
 time.sleep(100)
