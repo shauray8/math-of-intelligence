@@ -1,4 +1,4 @@
-# full subtractor in loginc gates
+# full subtractor with logic gates
 
 a = 1
 b = 0
