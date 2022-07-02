@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 
-/math_annimations/image
+./math_annimations/image
+./cv_stuff/assets
