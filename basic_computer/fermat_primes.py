@@ -8,7 +8,6 @@ def prime(num:int) -> bool:
                return False
        else:
            return True
-           
     else:
         return False
 
