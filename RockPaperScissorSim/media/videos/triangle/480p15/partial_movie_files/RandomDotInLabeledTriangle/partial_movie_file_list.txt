@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/kafka/files/math-of-intelligence/RockPaperScissorSim/media/videos/triangle/480p15/partial_movie_files/RandomDotInLabeledTriangle/1185818338_1595310568_887184245.mp4'
